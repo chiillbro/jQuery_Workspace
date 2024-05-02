@@ -1,0 +1,25 @@
+.big {
+  font-size: 2em;
+}
+
+.red {
+  color: red;
+}
+
+.text {
+  text-decoration: underline;
+}
+
+.para {
+  text-align: center;
+}
+
+.empty {
+  /* box-sizing: border-box; */
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+}
